@@ -1,0 +1,2 @@
+# fintech-deep-learning-venture-capital-success-predictor
+This repo contains an example of a deep learning binary classifier model that predicts whether a venture capital applicant will become a successful business.  The example highlights pre-processing techniques including the encoding of categorical variables; creation of training and test datasets; and standard scaling.  It also includes model optimization techniques for the number of layers and number of neurons.
